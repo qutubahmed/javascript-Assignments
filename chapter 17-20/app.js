@@ -33,10 +33,10 @@
 // }
 
 
-// var fruits = ["apple", "banana", "mango", "orange", "strawberry"];
-// for (var i = 0; i < fruits.length; i++) {
-//     document.write(`element at Index ${i} is ${fruits[i]} <br>`)
-// }
+var fruits = ["apple", "banana", "mango", "orange", "strawberry"];
+for (var i = 0; i < fruits.length; i++) {
+    document.write(`element at Index ${i} is ${fruits[i]} <br>`)
+}
 
 
 // for (var i = 1; i <= 10; i++) {
@@ -124,8 +124,8 @@
 // alert(`The smallest number in the array is: ${smallest}`);
 
 
-for (var i = 1; i <= 100; i++) {
-    if (i % 5 == 0) {
-        document.write(i + " ")
-    }
-}
+// for (var i = 1; i <= 100; i++) {
+//     if (i % 5 == 0) {
+//         document.write(i + " ")
+//     }
+// }
